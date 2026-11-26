@@ -2,13 +2,11 @@
 
 Eerste opzet van een website voor een mogelijke Expertisegroep Compliance, een initiatief van Bureau DFO.
 
-**Status:** concept ter bespreking. Data, tarieven, kerngroep en programma zijn voorbeelden.
+**Status:** concept ter bespreking. Data, tarieven, kerngroep en programma zijn voorbeelden. De pagina wordt niet opgenomen door zoekmachines.
 
 ## Bekijken
 
-1. Open `Expertisegroep-Compliance-opzet.html` hierboven.
-2. Klik rechtsboven op **Download raw file**.
-3. Dubbelklik op het gedownloade bestand; het opent in je browser.
+**https://ronalvanhamersveld.github.io/expertisegroep-compliance-concept/**
 
 Met de knop **Toelichting tonen** bovenaan de pagina zie je per blok een korte notitie over doel en openstaande keuzes.
 
